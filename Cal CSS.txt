@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(24, 23, 23);
+    color: white;
+}
+body
+{
+     margin:150px;
+}
+input{
+    width:100%;
+    height:100%;
+}
